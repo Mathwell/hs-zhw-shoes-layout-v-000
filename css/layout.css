@@ -47,6 +47,7 @@ div.middle{
   float:left;
   overflow: auto;
   margin: 10px 0px 10px 10px;
+  min-height: 650px;
 }
 
 .column {
